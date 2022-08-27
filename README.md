@@ -13,19 +13,19 @@ Manage Task list with API.
 
 ## Installation
 
-Install my-project with npm
+Install my-project
 
 ```bash
 composer install
 ```
+Update .env file with your DB connection 
+and mail so email can be tigger
+
 For Migration
 ```base
 php artisan migrate --seed
 ```
 
-Update .env file with your DB connection 
-
-and mail so email can be push
 
 ## POST MAN COLLECTION Variables
 
