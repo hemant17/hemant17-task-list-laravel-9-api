@@ -25,6 +25,8 @@ php artisan migrate --seed
 
 Update .env file with your DB connection 
 
+and mail so email can be push
+
 ## POST MAN COLLECTION Variables
 
 To run this postman collection , you will need to check the base_url
